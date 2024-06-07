@@ -4,11 +4,11 @@
     box-sizing: border-box;
     }
     body{
-    font-family: "Poppins", sans-serif;
+    font-family: "Miltonian Tattoo", sans-serif;
     }
     header{
-    background-color: #424e61;
-    color: white;
+    background-color: #A79277;
+    color: black;
     width: 100%;
     padding: 20px;
     }
@@ -37,7 +37,7 @@
     width: 25%;
     padding-right: 30px;
     }
-    .banner1{
+    .bann{
     display: flex;
     justify-content: center;
     }
