@@ -84,8 +84,8 @@
     }
 
     .hospital{
-    background-image: linear-gradient(#EAD8C0);
-    color: #ffffff;
+    background-image: linear-gradient(#ffffff);
+    color: #EAD8C0;
     display: flex;
     justify-content:center;
     padding: 24px 0;
@@ -93,7 +93,7 @@
     display:block;
     }
 
-    .hospital-titulo{
+    .hospital-info{
     padding: 50px;
     text-align: center;
     }
