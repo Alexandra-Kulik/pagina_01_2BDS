@@ -84,8 +84,8 @@
     }
 
     .hospital{
-    background-image: linear-gradient(#40A2E3,#7FC2EF);
-    color: #EAD8C0;
+    background-image: linear-gradient(#EAD8C0);
+    color: #ffffff;
     display: flex;
     justify-content:center;
     padding: 24px 0;
@@ -98,7 +98,7 @@
     text-align: center;
     }
 
-    .logo_hospital_rodape{
+    .logo_rodape{
     height: 80px;
     padding: 12px 0;
     justify-content: flex-start;
